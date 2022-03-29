@@ -46,7 +46,7 @@
         android:gravity="start|top"
         android:layout_marginTop="8dp"
         android:hint="@string/description"
-        android:inputType="textPersonName"
+        android:inputType="textMultiLine"
         android:paddingStart="24dp"
         android:paddingTop="16dp"
         android:paddingEnd="24dp"
