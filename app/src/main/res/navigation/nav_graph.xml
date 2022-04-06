@@ -44,7 +44,7 @@
     <fragment
         android:id="@+id/addFragment"
         android:name="com.adithyaegc.todoapp.fragments.add.AddFragment"
-        android:label="Update"
+        android:label="Add"
         tools:layout="@layout/fragment_add">
         <action
             android:id="@+id/action_addFragment_to_listFragment"
